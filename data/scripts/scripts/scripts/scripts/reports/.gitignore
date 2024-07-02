@@ -1,1 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+var
+*.log
+*.swp
+*.swo
+.installed.cfg
+*.egg-info/
+.installed.cfg
+
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
